@@ -17,6 +17,10 @@
     background-color: #FD6E0A;
     font-weight: 800;
     font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s; 
   }
 /* nav style */
 nav {
