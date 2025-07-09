@@ -7,6 +7,9 @@
       "wdth" 100;
   }
  /* shared style */
+  .text-center{
+    text-decoration:center;
+  }
  .secondary-bg{
   background-color: #e6cbb7f3;
  }
@@ -105,4 +108,8 @@ main{
 .about-items{
   display: flex;
   justify-content: space-around;
+}
+/* skills-container */
+.skills-container{
+  display: flex;
 }
